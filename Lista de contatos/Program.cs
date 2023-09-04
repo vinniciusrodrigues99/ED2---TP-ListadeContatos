@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-//Vinnicius O. Rodrigues
+//Vinnicius O. Rodrigues e Lucas Lusni
 namespace ContatosApp
 {
     class Data
